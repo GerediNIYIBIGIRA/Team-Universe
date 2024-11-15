@@ -44,7 +44,6 @@ Predicts youth unemployment trends for 2025–2030 using ARIMA and machine learn
   . Suggests actionable interventions to address underemployment, skills mismatches, and gender disparities.
    
 ### Technical Details
-
 . Programming Languages: Python.
 . Key Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Dash.
 . Modeling:
@@ -56,7 +55,6 @@ Predicts youth unemployment trends for 2025–2030 using ARIMA and machine learn
   
 ### Impact
 The RwandaYouthWorks project is designed to:
-
 . Help policymakers address regional and sectoral disparities.
 . Improve vocational training programs to align with labor market demands.
 . Equip youth with actionable career guidance.
