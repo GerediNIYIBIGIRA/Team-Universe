@@ -1,8 +1,8 @@
-###### RwandaYouthWorks: Tackling Youth Unemployment in Rwanda
+# RwandaYouthWorks: Tackling Youth Unemployment in Rwanda
 
 #### Project Overview
 
-The RwandaYouthWorks project addresses Rwanda's critical youth unemployment crisis. With a youth unemployment rate of 20.50% in 2024—significantly higher than the overall unemployment rate of 16.80%—this issue threatens the country's social stability and economic development. Despite Rwanda’s remarkable GDP growth averaging 7.5% since 2000, the economy has struggled to generate sufficient quality jobs for youth, who make up over 70% of the population. Challenges such as gender disparities, skills mismatches, and widespread underemployment further exacerbate the problem, with 60% of employed youth working in nonproductive sectors.
+The RwandaYouthWorks project addresses Rwanda's critical youth unemployment crisis. With a youth unemployment rate of 20.50% in 2024 significantly higher than the overall unemployment rate of 16.80% this issue threatens the country's social stability and economic development. Despite Rwanda’s remarkable GDP growth averaging 7.5% since 2000, the economy has struggled to generate sufficient quality jobs for youth, who make up over 70% of the population. Challenges such as gender disparities, skills mismatches, and widespread underemployment further exacerbate the problem, with 60% of employed youth working in nonproductive sectors.
 
 This project leverages data science and machine learning to deliver actionable insights, evidence-based policy recommendations, and targeted career guidance to mitigate youth unemployment in Rwanda.
 
