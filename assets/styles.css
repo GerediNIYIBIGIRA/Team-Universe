@@ -1,0 +1,79 @@
+/* Sidebar */
+.sidebar {
+    background-color: #343a40;
+    color: white;
+    padding: 2rem;
+    height: 100vh;
+}
+
+.sidebar h2 {
+    color: #ffffff;
+}
+
+.sidebar a {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.sidebar a:hover {
+    color: #adb5bd;
+}
+
+/* Content Area */
+.content-section {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+/* Chatbot Interface */
+.chatbot-interface {
+    background-color: #f8f9fa;
+    border-left: 2px solid #e1e1e1;
+    padding: 10px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#chat-output {
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Send button styling */
+#send-btn {
+    background-color: transparent;
+    color: #343a40;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#send-btn:hover {
+    color: #495057;
+}
+
+/* Sidebar Icons */
+.icon-home {
+    color: #3498db;
+}
+
+.icon-visualization {
+    color: #e74c3c;
+}
+
+.icon-prediction {
+    color: #2ecc71;
+}
+
+/* Active sidebar item */
+.sidebar .nav-link.active {
+    background-color: #d4e3fc;
+    color: #004085;
+}
