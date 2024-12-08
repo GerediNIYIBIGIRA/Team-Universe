@@ -1,0 +1,171 @@
+Summary Statistics for Average Unemployment Rate by Age Group:
+count    4.000000
+mean     0.481060
+std      0.173477
+min      0.245697
+25%      0.404553
+50%      0.523930
+75%      0.600437
+max      0.630684
+Name: target_employed16, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Youth Unemployment Rate by Gender:
+count    2.000000
+mean     0.524299
+std      0.098155
+min      0.454893
+25%      0.489596
+50%      0.524299
+75%      0.559002
+max      0.593705
+Name: target_employed16, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Unemployment Rates by Educational Attainment:
+count    5.000000
+mean     0.520511
+std      0.142125
+min      0.320371
+25%      0.465669
+50%      0.532168
+75%      0.578947
+max      0.705400
+Name: target_employed16, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Youth Unemployment Status Distribution:
+count     2.000000
+mean     50.000000
+std       3.823848
+min      47.296131
+25%      48.648066
+50%      50.000000
+75%      51.351934
+max      52.703869
+Name: target_employed16, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Unemployment Counts by District within Provinces:
+count      30.000000
+mean      488.600000
+std       500.426342
+min       179.000000
+25%       295.000000
+50%       316.000000
+75%       394.750000
+max      2165.000000
+Name: Unemployed_Count, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Current Unemployment Rate by Province:
+count    5.000000
+mean     0.553252
+std      0.057403
+min      0.465286
+25%      0.536106
+50%      0.560510
+75%      0.589777
+max      0.614583
+Name: Unemployment_Rate, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Youth Unemployment Trend by Working Year:
+count    19.000000
+mean      0.506198
+std       0.156755
+min       0.350692
+25%       0.385456
+50%       0.425743
+75%       0.612374
+max       0.869677
+Name: Unemployment_Rate, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Historical Youth Unemployment Trend:
+count    19.000000
+mean      0.506198
+std       0.156755
+min       0.350692
+25%       0.385456
+50%       0.425743
+75%       0.612374
+max       0.869677
+Name: Unemployment_Rate, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
+Summary Statistics for Forecasted Youth Unemployment Trend:
+count    25.000000
+mean      1.528537
+std       0.331290
+min       0.931727
+25%       1.270966
+50%       1.559693
+75%       1.805430
+max       2.014578
+Name: predicted_mean, dtype: float64
+
+Explanation of Statistics:
+Count: Number of categories.
+Mean: Average unemployment rate across categories.
+Std: Standard deviation of unemployment rates.
+Min, 25%, 50%, 75%, Max: Minimum, first quartile, median, third quartile, and maximum unemployment rates.
+
+==================================================
+
